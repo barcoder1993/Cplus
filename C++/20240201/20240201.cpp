@@ -110,6 +110,8 @@ using namespace std;
 //     return 0;
 // }
 
+//
+
 namespace COMP_POS{
     enum{
         CLERK,
@@ -149,7 +151,7 @@ class NameCard{
                 ppos = "CLERK";
                 break;
             case 1:
-            
+
                 ppos = "SENIOR";
                 break;
             case 2:
